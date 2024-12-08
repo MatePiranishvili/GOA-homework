@@ -108,5 +108,41 @@
 .p2{
     color: orangered;
     text-align: center;
+    border: solid;
+    border-radius: 10px;
 }
 
+.ol1{
+    list-style-type: armenian;
+}
+
+
+.ol2{
+    list-style-type: georgian;
+}
+
+
+.ol3{
+    list-style-type: lower-greek;
+}
+
+.ol4{
+    list-style-type:upper-roman;
+}
+
+
+.ol5{
+    list-style-type:lower-greek;
+}
+
+.ol6{
+    list-style-type: lower-alpha;
+}
+
+.ol7{
+    list-style-type: upper-latin;
+}
+
+.ol8{
+    list-style-type: upper-alpha;
+}
