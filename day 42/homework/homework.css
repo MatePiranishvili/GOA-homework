@@ -1,5 +1,6 @@
-.N:hover{
-    color: blue;
-    transition: 1s;
-    background-color: crimson;
+table{
+    border:1px solid red ;
+    font-family: cursive;
 }
+
+

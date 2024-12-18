@@ -1,7 +1,6 @@
-a{
-    color: blue;
-}
-a:visited{
-    color: blueviolet;
-    transition: 1s;
+p{
+    color: aqua;
+    border: 3px solid black;
+    border-style:dashed;
+    text-align: center;
 }
